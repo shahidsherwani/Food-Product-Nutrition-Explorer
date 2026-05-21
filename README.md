@@ -26,7 +26,9 @@ product origins, and enables comparison of multiple products.
 - Plotly/Matplotlib (charts and visualizations)
 - HTML/CSS/Bootstrap (frontend)
 
-## Project Structure
+#### Project Structure
+
+```text
 Food-Product-Nutrition-Explorer/
 ├── app.py              # Main Flask application
 ├── api_handler.py      # API integration (Open Food Facts, REST Countries)
@@ -40,6 +42,7 @@ Food-Product-Nutrition-Explorer/
 └── static/
     ├── css/
     └── js/
+```
 
 ## Setup & Installation
 1. Clone the repository
